@@ -23,11 +23,11 @@ git clone https://github.com/TonytheAlias/AI-CheaterExtension
 3. Open Chrome browser once installed
 
 4. Click on the puzzle piece icon at the right-end outside of your url bar. Then click manage extentions.
-   [Screenshot1](./Images/Screenshot1.png)
-   [Screenshot2](./Images/Screenshot2.png)
+   ![Screenshot1](./Images/Screenshot1.png)
+   ![Screenshot2](./Images/Screenshot2.png)
 
-5. Then click Load unpack and find the folder that contains the folder of the AI-Cheater Extension.
-   [Screenshot3](./Images/Screenshot3.png)
+5. Then click Load unpack and find the folder that contains the folder of the AI-Cheater Extension. <br>
+   ![Screenshot3](./Images/Screenshot3.png)
 
 ## Usage
 
