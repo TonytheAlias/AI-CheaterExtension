@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "name": "AI Cheating Detector",
+    "version": "1.0.2",
+    "description":"Detects possible AI assistance in coding problems",
+    "permissions":["tabs", "storage", "scripting"],
+    "host_permissions": [
+    "*://*.leetcode.com/*",
+    "*://*.neetcode.io/*",
+    "*://*.codesignal.com/*"
+  ],
+  "background":{
+    "service_worker": "background.js"
+  },
+    "content_scripts": [
+      { 
+        "matches": [ 
+        "*://leetcode.com/problems/*",
+        "*://neetcode.io/problems/*"
+        ],
+        "js": ["content.js"]
+      }
+    ],
+    "action":
+    {
+        "default_popup": "popup.html"
+    }
+}
