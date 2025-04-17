@@ -9,6 +9,15 @@ document.getElementById("showsLogs").addEventListener("click", () => {
       });
     });
   });
+  
+  document.getElementById("clearData").addEventListener("click",() => {
+    const list = document.getElementById("logList")
+    if (list)
+    {
+      list.innerHTML = "";
+    }
+    chrome.storage.local.set({logs: []})
+  })
 
   document.getElementById("exportLogs").addEventListener("click", () => {
     chrome.storage.local.get("logs", data => {
