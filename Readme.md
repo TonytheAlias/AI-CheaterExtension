@@ -23,7 +23,7 @@ Compatible with Google Chrome and Microsoft Edge
 
 3. Open Chrome browser once installed
 
-4. Click on the puzzle piece icon at the right-end outside of your url bar. Then click manage extentions.
+4. Click on the puzzle piece icon on the top right of browser. Then click manage extentions.
    ![Screenshot1](./Images/Screenshot1.png)
    ![Screenshot2](./Images/Screenshot2.png)
 
