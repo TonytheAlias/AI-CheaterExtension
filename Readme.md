@@ -15,10 +15,11 @@
 git clone https://github.com/TonytheAlias/AI-CheaterExtension
 ```
 
-2. Chrome Installation:
-   (if chrome is not already installed)
+2.  Installation:
 
--[Mac & Windows Install ](https://www.google.com/chrome/bsem/download/en_us/?brand=RXQR&ds_kid=43700081553519990&&utm_source=bing&utm_medium=cpc&utm_campaign=1709650%20%7C%20Chrome%20Win11%20%7C%20DR%20%7C%20ESS01%20%7C%20NA%20%7C%20US%20%7C%20en%20%7C%20Desk%20%7C%20SEM%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20%7C%20Bing&utm_term=chrome%20download&utm_content=Desk%20%7C%20BKWS%20-%20EXA%20%7C%20Txt_Chrome&gclid=0f97634be48f1408a36004b55d76fe8f&gclsrc=3p.ds&gad_source=7)
+Compatible with Google Chrome and Microsoft Edge
+
+- Chrome Installation: [Mac & Windows Install ](https://www.google.com/chrome/bsem/download/en_us/?brand=RXQR&ds_kid=43700081553519990&&utm_source=bing&utm_medium=cpc&utm_campaign=1709650%20%7C%20Chrome%20Win11%20%7C%20DR%20%7C%20ESS01%20%7C%20NA%20%7C%20US%20%7C%20en%20%7C%20Desk%20%7C%20SEM%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20%7C%20Bing&utm_term=chrome%20download&utm_content=Desk%20%7C%20BKWS%20-%20EXA%20%7C%20Txt_Chrome&gclid=0f97634be48f1408a36004b55d76fe8f&gclsrc=3p.ds&gad_source=7)
 
 3. Open Chrome browser once installed
 
