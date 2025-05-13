@@ -1,6 +1,6 @@
 # AI-Cheater Extension
 
-This is an extension that checks for cheating via AI when completing leetcode style problems. The extension test for keystorke speed, code pasting, idle time, and tab switches. It will also show the timestamp that each event happen and the name of the problem they completed. The user will be able to clear all data to recheck user's problem performance again. Finally, the user will be able to export data to a csv file once it is all collected.
+This is a web extension that checks for cheating via AI through user behivor patterns when completing leetcode style problems. The extension test for keystorke speed, copy & pasting, idle time, and tab switches. It will also show the timestamp that each event happen and the name of the problem they completed. The user will be able to clear all data and export data into it own csv file once collected.
 
 ## Languages
 
